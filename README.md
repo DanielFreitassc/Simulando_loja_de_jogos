@@ -1,1 +1,1 @@
-# Simulando_loja_de_jogos
+# Simulando loja de jogos com Spring boot 
